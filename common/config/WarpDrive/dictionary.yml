@@ -29,6 +29,7 @@
 ##########################################################################################################
 
 block_tags {
+    S:"AdvancedRepulsionSystems:teslaBlock"=Anchor
     S:"AdvancedRepulsionSystems:field"=PlaceEarlier StopMining NoBlink
     S:"Artifacts:anti_anti_builder_stone"=Anchor StopMining
     S:"Artifacts:anti_builder"=Anchor StopMining
